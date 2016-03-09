@@ -1,8 +1,10 @@
-| Katherine Fitzpatrick |
-| --- |
-|  KATHERINE FITZPATRICKEmail:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com)Cell (773) 428-29921514 Interlaken Pl East, Seattle, Washington,98112 |
+>| Katherine Fitzpatrick |
+>| --------------------- |
 
-#Summary of Qualifications:
+>Email:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com)Cell (773) 428-29921
+>514 Interlaken Pl East, Seattle, Washington,98112 |
+
+##Summary of Qualifications:
 
 Principal Technical Analyst with over 12 years of IT Infrastructure project delivery and management experience. High level of technical skills coupled with detailed project methodology processes to enable the successful delivery of Enterprise-wide projects. Primary responsibilities have included creating project implementation schedules, providing management level status updates to stakeholders and project sponsors, and managing project implementation team resources and tasks.
 
@@ -14,29 +16,52 @@ Strong emphasis on communication and issue resolution to facilitate timely deliv
 
 ##Professional Experience:
 
-###Families of Color Seattle 2014- Present – Seattle, Washington
+### April 2015 to Present Matisia Consultantsâ€“ Seattle, Washington
+
+Role: Technical Project Manager, _Client T-Mobile_
+
+Migrated over 15,000 legacy contracts to new contract managment system.
+
+* Vendor relationship managment.
+
+* Project team coordination and planning.
+
+* Report progress to leadership.
+
+* Budget managment.
+
+
+Role: Resource Manager for Business Intelligence Functional Analyst Team.
+
+* Resource utilization reporting to managment.
+
+* Manage relationship with business and development teams.
+
+* Initiate and facilitate hiring new resources.
+
+###Families of Color Seattle 2014- Present Volunteer â€“ Seattle, Washington
 
 Role: Technical Project Manager
 
 Delivered new website with updated content, graphics and functionality.
 
-Select new CMS and implement user registration and payment functionality within new site.
+* Select new CMS and implement user registration and payment functionality within new site.
 
-Collaborate with graphic designers to create new logo for client.
+* Collaborate with graphic designers to create new logo for client.
 
-Conduct content audit of old website.
+* Conduct content audit of old website.
 
-Facilitate workshops and reviews with key content owners to develop business and system use cases.
+* Facilitate workshops and reviews with key content owners to develop business and system use cases.
 
-Develop functional requirements.
+* Develop functional requirements.
 
-Create Wireframe blue print of new site layout.
+* Create Wireframe blue print of new site layout.
 
-Organize technical team research and evaluation of products for class booking and events system.
+* Organize technical team research and evaluation of products for class booking and events system.
 
-Perform user acceptance testing.
+* Perform user acceptance testing.
 
-###Blackwell Consulting Services 2010 -2011 – Chicago, Illinois
+###Blackwell Consulting Services 2010 -2011 â€“ Chicago, Illinois
 
 Consultant
 
@@ -46,25 +71,25 @@ Role: Business Development
 
 Process improvement for new business opportunities:
 
-Analyze request for proposal (RFP) process.
+* Analyze request for proposal (RFP) process.
 
-Conduct interviews with key business partners in Sales, Project Management and Solution Architecture teams.
+* Conduct interviews with key business partners in Sales, Project Management and Solution Architecture teams.
 
-Categorize key deliverables for RFP response by technical and business areas.
+* Categorize key deliverables for RFP response by technical and business areas.
 
-Delivered online templates for RFP response that auto populated based on technical and business area engaged.
+* Delivered online templates for RFP response that auto populated based on technical and business area engaged.
 
 Role: Business Development
 
 Solution architecture for RFP response:
 
-Develop project timeline with key deliverables for technical solution.
+* Develop project timeline with key deliverables for technical solution.
 
-Collaborate with Sales, Finance and Technical Teams for budget estimation.
+* Collaborate with Sales, Finance and Technical Teams for budget estimation.
 
-Participate in Red Team meeting for RFP response approval.
+* Participate in Red Team meeting for RFP response approval.
 
-###Blackwell Consulting Services 2005- 2009 – Bloomington, Illinois
+###Blackwell Consulting Services 2005- 2009 â€“ Bloomington, Illinois
 
 Senior Security Analyst
 
@@ -74,29 +99,29 @@ Role: Technical Project Lead
 
 Manage project team resources to implement new security products and upgrade the existing infrastructure across the enterprise:
 
-Create project implementation schedules and timelines
+* Create project implementation schedules and timelines
 
-Identify and assign project team resources
+* Identify and assign project team resources
 
-Manage communications to project sponsors and stakeholders
+* Manage communications to project sponsors and stakeholders
 
-Identify and document dependencies and risks to project schedule
+* Identify and document dependencies and risks to project schedule
 
 Address the changing needs of network perimeter security by implementing new devices capable of intrusion prevention within the trusted network.
 
-Create and execute test cases for IPS/IDS appliances to measure the effectiveness of hardware Intrusion Prevention Systems (IPS).
+* Create and execute test cases for IPS/IDS appliances to measure the effectiveness of hardware Intrusion Prevention Systems (IPS).
 
-Design and implement IDS/IPS management infrastructures to collect and monitor security events.
+* Design and implement IDS/IPS management infrastructures to collect and monitor security events.
 
-Redesign event monitoring to incorporate event correlation and reduce time involved in incident investigation.
+* Redesign event monitoring to incorporate event correlation and reduce time involved in incident investigation.
 
-Work with project teams to define and document security requirements.
+* Work with project teams to define and document security requirements.
 
- Identify servers within the enterprise that require host based intrusion detection system (HIDS) due to the critical and or confidential nature of the data they host or transfer.
+*  Identify servers within the enterprise that require host based intrusion detection system (HIDS) due to the critical and or confidential nature of the data they host or transfer.
 
 
 
-###JSA International Group 2004-2005 – London, England
+###JSA International Group 2004-2005 â€“ London, England
 
 Consultant
 
@@ -104,25 +129,25 @@ Client(s): Selfridges and Unwins for Wincor Nixdorf
 
 Role: Business Analyst and Project Coordinator
 
-Analyze requirements for new Java-based Point of Sales System for major retail department stores.
+* Analyze requirements for new Java-based Point of Sales System for major retail department stores.
 
-Technical coordinator during the implementation of a Java based Retail solution (Retail-J) for various retail companies.
+* Technical coordinator during the implementation of a Java based Retail solution (Retail-J) for various retail companies.
 
-Plan the implementation of new Wincor Nixdorf EPOS hardware with customized builds, Chip and Pin hardware and software
+* Plan the implementation of new Wincor Nixdorf EPOS hardware with customized builds, Chip and Pin hardware and software
 
-Conduct workshops to gather business and functional requirements for a new Java-based Point of Sale System.
+* Conduct workshops to gather business and functional requirements for a new Java-based Point of Sale System.
 
- Deliver gap analysis of the current Retail-J point of sale software application.
+ * Deliver gap analysis of the current Retail-J point of sale software application.
 
-Perform risk analysis of the Retail-J architecture and implemented Business Continuity measures to increase availability.
+* Perform risk analysis of the Retail-J architecture and implemented Business Continuity measures to increase availability.
 
-Conduct interviews with stakeholders to identify key assets
+* Conduct interviews with stakeholders to identify key assets
 
-Test and implemented database backups for optimizing functionality and developed and executed a data retention plan for over 600 users.
+* Test and implemented database backups for optimizing functionality and developed and executed a data retention plan for over 600 users.
 
 
 
-###Blackwell Consulting Services – Bloomington, Illinois 2001 - 2004
+###Blackwell Consulting Services â€“ Bloomington, Illinois 2001 - 2004
 
 Security Analyst
 
@@ -132,23 +157,23 @@ Role: Technical Lead
 
 Develop processes and procedures to support security technologies such as personal firewalls and workstation and server Anti-Virus clients.
 
-Serve as the primary contact to the organization for security-related issues such as E-mail virus outbreaks
+* Serve as the primary contact to the organization for security-related issues such as E-mail virus outbreaks
 
-Provide production support to the security environment.
+* Provide production support to the security environment.
 
-Utilize project methodology to research, evaluate, test and implement security products.
+* Utilize project methodology to research, evaluate, test and implement security products.
 
-Technical support and analysis for projects that affect the security policies of organization, specifically, efforts that affect Mail and Internet security.
+* Technical support and analysis for projects that affect the security policies of organization, specifically, efforts that affect Mail and Internet security.
 
-Primary Analyst responsible for the protection of E-Mail both in the Microsoft Exchange environment.
+* Primary Analyst responsible for the protection of E-Mail both in the Microsoft Exchange environment.
 
-Protected against SPAM and E-Mail propagating viruses by maintaining and modifying policies on the Internet Gateway servers and upgrading AntiVirus software.
+* Protected against SPAM and E-Mail propagating viruses by maintaining and modifying policies on the Internet Gateway servers and upgrading AntiVirus software.
 
-Analyzed business requirements for AntiVirus solutions and deliver appropriate solutions.
+* Analyzed business requirements for AntiVirus solutions and deliver appropriate solutions.
 
-Protected against virus outbreaks and should one occur take the appropriate action to contain and neutralize the virus threat.
+* Protected against virus outbreaks and should one occur take the appropriate action to contain and neutralize the virus threat.
 
-###Blackwell Consulting Services – Bloomington, Illinois 1999 - 2001
+###Blackwell Consulting Services â€“ Bloomington, Illinois 1999 - 2001
 
 Corporate Agency Support Analyst
 
@@ -158,9 +183,9 @@ Role: Support Analyst
 
 Provide level 2 technical support including reloads and upgrades for the Agent office environment consisting of the various hardware and software components. (Server, workstations, Windows, network issues, local printing and LAN)
 
-Troubleshoot network issues, local printing and other LAN issues.
+* Troubleshoot network issues, local printing and other LAN issues.
 
-Provide support for the onsite IBM installers implementing new hardware at an Insurance Agents offices.
+* Provide support for the onsite IBM installers implementing new hardware at an Insurance Agents offices.
 
 
 ###Education / Certifications:
@@ -185,7 +210,7 @@ Systemation - Fast Track to Project Management
 
 Trained Technical Writer
 
-Skyline Training – Cisco Security Monitoring Analysis and Response System
+Skyline Training â€“ Cisco Security Monitoring Analysis and Response System
 
 Disaster Recovery Planning
 
