@@ -1,8 +1,9 @@
->| Katherine Fitzpatrick |
->| --------------------- |
+#Katherine Fitzpatrick
 
->Email:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com)Cell (773) 428-29921
->514 Interlaken Pl East, Seattle, Washington,98112 |
+
+>Email:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com) Cell (773) 428-2992
+>1514 Interlaken Pl East
+>Seattle, Washington, 98112
 
 ##Summary of Qualifications:
 
