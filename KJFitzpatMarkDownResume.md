@@ -19,9 +19,9 @@ Strong emphasis on communication and issue resolution to facilitate timely deliv
 
 ### April 2015 to June 2016 Matisia Consultants– Seattle, Washington
 
-Role: Technical Project Manager, _Client T-Mobile_
+Role #1 : Technical Project Manager, _Client T-Mobile_
 
-Migrated over 15,000 legacy contracts to new contract managment system.
+Project # 1 - Migrate over 15,000  legacy paper contracts to new contract managment system.
 
 * Vendor relationship managment.
 
@@ -32,13 +32,24 @@ Migrated over 15,000 legacy contracts to new contract managment system.
 * Budget managment.
 
 
-Role: Resource Manager for Business Intelligence Functional Analyst Team.
+Role #2: Resource Manager for Business Intelligence Functional Analyst Team.
 
 * Resource utilization reporting to managment.
 
 * Manage relationship with business and development teams.
 
 * Initiate and facilitate hiring new resources.
+
+Project # 2- Migrate contingent workforce managment system for top 5 vendors 3rd party vendors to new SaaS solution.
+
+* Vendor relationship managment.
+
+* Project team coordination and planning.
+
+* Report progress to leadership.
+
+* Budget managment
+
 
 ###Families of Color Seattle 2014- Present Volunteer – Seattle, Washington
 
