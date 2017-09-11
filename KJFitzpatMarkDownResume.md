@@ -2,7 +2,7 @@
 
 
 >Email:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com) Cell (773) 428-2992
->1514 Interlaken Pl East
+>2413 E Lynn st
 >Seattle, Washington, 98112
 
 ##Summary of Qualifications:
@@ -17,7 +17,7 @@ Strong emphasis on communication and issue resolution to facilitate timely deliv
 
 ##Professional Experience:
 
-### April 2015 to Present Matisia Consultants– Seattle, Washington
+### April 2015 to June 2016 Matisia Consultants– Seattle, Washington
 
 Role: Technical Project Manager, _Client T-Mobile_
 
