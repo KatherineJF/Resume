@@ -1,203 +1,208 @@
-#Katherine Fitzpatrick
+ Katherine Fitzpatrick 
 
 
->Email:   [katherine@stonewaytech.com](mailto:kjfitzpat@hotmail.com) Cell (773) 428-2992
->2413 E Lynn st
->Seattle, Washington, 98112
+Results-driven Technical Analyst and Project Manager with over 12 years of IT Infrastructure project delivery and management experience. High level of technical skills coupled with detailed project methodology processes to enable the successful delivery of Enterprise-wide projects. 
 
-##Summary of Qualifications:
+ 
 
-Principal Technical Analyst with over 12 years of IT Infrastructure project delivery and management experience. High level of technical skills coupled with detailed project methodology processes to enable the successful delivery of Enterprise-wide projects. Primary responsibilities have included creating project implementation schedules, providing management level status updates to stakeholders and project sponsors, and managing project implementation team resources and tasks.
+Demonstrated strengths in: 
 
-Experience in conducting and documenting market research to evaluate new security products/vendors and technologies for their implementation feasibility. Coordinated the implementation of complex Enterprise infrastructure products such as Anti-Virus, Email Security, Content Filtering, Intrusion Detection/Prevention, and Personal Firewalls and Data Leakage solutions. These implementations were dispersed across multiple locations on projects varying from 500 hours to multi-million dollar hardware procurement and data center placement efforts. Expertise in developing procedures utilizing industry best practices for support organization.
+IT Program/Project Management   
 
-Strong emphasis on communication and issue resolution to facilitate timely delivery and quality assurance reviews to validate stakeholder expectations.
+Business Analysis  
 
+Enterprise Infrastructure Implementation     
 
+Web Project Management  
 
-##Professional Experience:
+Solution Architecture                             
 
-### April 2015 to June 2016 Matisia Consultants– Seattle, Washington
+Requirements Gathering 
 
-Role #1 : Technical Project Manager, _Client T-Mobile_
+ 
 
-Project # 1 - Migrate over 15,000  legacy paper contracts to new contract managment system.
+PROFESSIONAL EXPERIENCE 
 
-* Vendor relationship managment.
+Present: Ada Developers Academy 
 
-* Project team coordination and planning.
+ 
 
-* Report progress to leadership.
+April 2015 to September 2016 Matisia Consultants now known as Unify– Seattle, Washington 
 
-* Budget managment.
+Role #1: Technical Project Manager, Client T-Mobile 
 
+Project # 1 - Migrate over 15,000 legacy paper contracts to new contract management system. 
 
-Role #2: Resource Manager for Business Intelligence Functional Analyst Team.
+Vendor relationship management. 
 
-* Resource utilization reporting to managment.
+Project team coordination and planning. 
 
-* Manage relationship with business and development teams.
+Report progress to leadership. 
 
-* Initiate and facilitate hiring new resources.
+Quality assurance and test management. 
 
-Project # 2- Migrate contingent workforce managment system for top 5 vendors 3rd party vendors to new SaaS solution.
+Budget management. 
+  
 
-* Vendor relationship managment.
+Role #2: Resource Manager for Business Intelligence Functional Analyst Team. 
 
-* Project team coordination and planning.
+Resource utilization reporting to management 
 
-* Report progress to leadership.
+Manage relationship with business and development teams. 
 
-* Budget managment
+Initiate and facilitate hiring new resources. 
 
+Backlog grooming and Kanban task management. 
 
-###Families of Color Seattle 2014- Present Volunteer – Seattle, Washington
+Project # 2- Migrate contingent workforce management system for top 5 vendors to new SaaS solution. 
 
-Role: Technical Project Manager
+Vendor relationship management. 
 
-Delivered new website with updated content, graphics and functionality.
+Gather and document user stories in Jira. 
 
-* Select new CMS and implement user registration and payment functionality within new site.
+Project team coordination and planning. 
 
-* Collaborate with graphic designers to create new logo for client.
+Manage relationship with business and development teams. 
 
-* Conduct content audit of old website.
+Report progress to leadership.  
 
-* Facilitate workshops and reviews with key content owners to develop business and system use cases.
+Jira to establish sprint and program performance metrics. 
+  
 
-* Develop functional requirements.
+Technical Project Manager, Families of Color Seattle  
 
-* Create Wireframe blue print of new site layout.
+ 2014- 2016 
 
-* Organize technical team research and evaluation of products for class booking and events system.
+Delivered new website with updated content, graphics and functionality. 
 
-* Perform user acceptance testing.
+Selected new CMS and implemented user registration and payment functionality within new site. 
 
-###Blackwell Consulting Services 2010 -2011 – Chicago, Illinois
+Collaborated with graphic designers to create new logo for client. 
 
-Consultant
+Conducted content audit of old website. 
 
-Client: Blackwell in-house projects
+Facilitated workshops and reviews with key content owners to develop business and system use cases. 
 
-Role: Business Development
+Developed functional requirements. 
 
-Process improvement for new business opportunities:
+Created Wireframe blue print of new site layout. 
 
-* Analyze request for proposal (RFP) process.
+Organized technical team research and evaluation of products for class booking and events system. 
 
-* Conduct interviews with key business partners in Sales, Project Management and Solution Architecture teams.
+Performed user acceptance testing. 
 
-* Categorize key deliverables for RFP response by technical and business areas.
+ 
+ 
 
-* Delivered online templates for RFP response that auto populated based on technical and business area engaged.
+Consultant, Blackwell Consulting Services                2005 -2011  
 
-Role: Business Development
+Business Development, Blackwell in-house projects 2009 -2011 
 
-Solution architecture for RFP response:
+Improved processes for new business opportunities: 
 
-* Develop project timeline with key deliverables for technical solution.
+Analyzed request for proposal (RFP) process. 
 
-* Collaborate with Sales, Finance and Technical Teams for budget estimation.
+Conducted interviews with key business partners in Sales, Project Management and Solution Architecture teams. 
 
-* Participate in Red Team meeting for RFP response approval.
+Categorized key deliverables for RFP response by technical and business areas. 
 
-###Blackwell Consulting Services 2005- 2009 – Bloomington, Illinois
+Delivered online templates for RFP response that auto populated based on technical and business area engaged. 
 
-Senior Security Analyst
+Provided solution architecture for RFP response: 
 
-Client: State Farm Insurance Company
+Developed project timeline with key deliverables for technical solution. 
 
-Role: Technical Project Lead
+Collaborated with Sales, Finance and Technical Teams for budget estimation. 
 
-Manage project team resources to implement new security products and upgrade the existing infrastructure across the enterprise:
+Participated in Red Team meeting for RFP response approval. 
 
-* Create project implementation schedules and timelines
+ 
+ 
 
-* Identify and assign project team resources
+Technical Project Lead, State Farm Insurance Company                2005 -2009 
 
-* Manage communications to project sponsors and stakeholders
+Managed project team resources to implement new security products and upgrade the existing infrastructure across the enterprise: 
 
-* Identify and document dependencies and risks to project schedule
+Created project implementation schedules and timelines. 
 
-Address the changing needs of network perimeter security by implementing new devices capable of intrusion prevention within the trusted network.
+Identified and assigned project team resources. 
 
-* Create and execute test cases for IPS/IDS appliances to measure the effectiveness of hardware Intrusion Prevention Systems (IPS).
+Managed communications to project sponsors and stakeholders. 
 
-* Design and implement IDS/IPS management infrastructures to collect and monitor security events.
+Identified and documented dependencies and risks to project schedule. 
 
-* Redesign event monitoring to incorporate event correlation and reduce time involved in incident investigation.
+Addressed the changing needs of network perimeter security by implementing new devices capable of intrusion prevention within the trusted network. 
 
-* Work with project teams to define and document security requirements.
+Created and executed test cases for IPS/IDS appliances to measure the effectiveness of hardware Intrusion Prevention Systems (IPS). 
 
-*  Identify servers within the enterprise that require host based intrusion detection system (HIDS) due to the critical and or confidential nature of the data they host or transfer.
+Designed and implemented IDS/IPS management infrastructures to collect and monitor security events. 
 
+Redesigned event monitoring to incorporate event correlation and reduce time involved in incident investigation.  
 
+Worked with project teams to define and document security requirements. 
 
-###JSA International Group 2004-2005 – London, England
+Identified servers within the enterprise that require host based intrusion detection system (HIDS) due to the critical and or confidential nature of the data they host or transfer. 
 
-Consultant
+ 
+ 
 
-Client(s): Selfridges and Unwins for Wincor Nixdorf
+Consultant, JSA International Group (London, England)  2004 -2005 
 
-Role: Business Analyst and Project Coordinator
+Business Analyst and Project Coordinator, Selfridges and Unwins for Wincor Nixdorf 
 
-* Analyze requirements for new Java-based Point of Sales System for major retail department stores.
+Analyzed requirements for new Java-based Point of Sales System for major retail department stores. 
 
-* Technical coordinator during the implementation of a Java based Retail solution (Retail-J) for various retail companies.
+Technical coordinator during the implementation of a Java based Retail solution (Retail-J) for various retail companies.  
 
-* Plan the implementation of new Wincor Nixdorf EPOS hardware with customized builds, Chip and Pin hardware and software
+Planned the implementation of new Wincor Nixdorf EPOS hardware with customized builds, Chip and Pin hardware and software.  
 
-* Conduct workshops to gather business and functional requirements for a new Java-based Point of Sale System.
+Conducted workshops to gather business and functional requirements for a new Java-based Point of Sale System. 
 
- * Deliver gap analysis of the current Retail-J point of sale software application.
+Delivered gap analysis of the current Retail-J point of sale software application. 
 
-* Perform risk analysis of the Retail-J architecture and implemented Business Continuity measures to increase availability.
+Performed risk analysis of the Retail-J architecture and implemented Business Continuity measures to increase availability.  
 
-* Conduct interviews with stakeholders to identify key assets
+Conducted interviews with stakeholders to identify key assets. 
 
-* Test and implemented database backups for optimizing functionality and developed and executed a data retention plan for over 600 users.
+Tested and implemented database backups for optimizing functionality and developed and executed a data retention plan for over 600 users.  
 
+ 
+ 
 
+Security Analyst, Blackwell Consulting Services   2001 -2004 
 
-###Blackwell Consulting Services – Bloomington, Illinois 2001 - 2004
+Technical Lead, State Farm Insurance Company  
 
-Security Analyst
+Developed processes and procedures to support security technologies such as personal firewalls and workstation and server Anti-Virus clients. 
 
-Client: State Farm Insurance Company
+Served as the primary contact to the organization for security-related issues such as E-mail virus outbreaks. 
 
-Role: Technical Lead
+Provided production support to the security environment. 
 
-Develop processes and procedures to support security technologies such as personal firewalls and workstation and server Anti-Virus clients.
+Utilized project methodology to research, evaluate, test and implement security products.  
 
-* Serve as the primary contact to the organization for security-related issues such as E-mail virus outbreaks
+Provided technical support and analysis for projects that affect the security policies of organization, specifically, efforts that affect Mail and Internet security.   
 
-* Provide production support to the security environment.
+Primary Analyst responsible for the protection of E-Mail both in the Microsoft Exchange environment. 
 
-* Utilize project methodology to research, evaluate, test and implement security products.
+Protected against SPAM and E-Mail propagating viruses by maintaining and modifying policies on the Internet Gateway servers and upgrading AntiVirus software. 
 
-* Technical support and analysis for projects that affect the security policies of organization, specifically, efforts that affect Mail and Internet security.
+Analyzed business requirements for AntiVirus solutions and deliver appropriate solutions.  
 
-* Primary Analyst responsible for the protection of E-Mail both in the Microsoft Exchange environment.
+Protected against virus outbreaks and should one occur take the appropriate action to contain and neutralize the virus threat. 
 
-* Protected against SPAM and E-Mail propagating viruses by maintaining and modifying policies on the Internet Gateway servers and upgrading AntiVirus software.
+ 
+ 
 
-* Analyzed business requirements for AntiVirus solutions and deliver appropriate solutions.
+Corporate Agency Support Analyst, Blackwell Consulting Services                1999 -2001 
 
-* Protected against virus outbreaks and should one occur take the appropriate action to contain and neutralize the virus threat.
+Support Analyst, State Farm Insurance Company 
 
-###Blackwell Consulting Services – Bloomington, Illinois 1999 - 2001
+Provided level 2 technical support including reloads and upgrades for the Agent office environment consisting of the various hardware and software components. (Server, workstations, Windows, network issues, local printing and LAN)  
 
-Corporate Agency Support Analyst
+Troubleshot network issues, local printing and other LAN issues.  
 
-Client: State Farm Insurance Company
-
-Role: Support Analyst
-
-Provide level 2 technical support including reloads and upgrades for the Agent office environment consisting of the various hardware and software components. (Server, workstations, Windows, network issues, local printing and LAN)
-
-* Troubleshoot network issues, local printing and other LAN issues.
-
-* Provide support for the onsite IBM installers implementing new hardware at an Insurance Agents offices.
+Provided support for the onsite IBM installers implementing new hardware at an Insurance Agents offices. 
 
 
 ###Education / Certifications:
